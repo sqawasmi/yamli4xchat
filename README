@@ -1,18 +1,25 @@
+About:
 yamli4xchat is a plugin to be used with XChat IRC Client, simply it use Yamli.com to convert arabic/english words to arabic words..
 
-You need to make sure you have the following perl 2 modules before using this plugin:
+---
+
+Installation:
+First, make sure you have the following 2 perl modules before using this plugin:
 * LWP::Simple
 * JSON 
 
-All what you have to do then is to load yamli4xchat.pl file within your XChat client (Window --> Plugins and Scripts --> Add)
+All what you have to do now is to load yamli4xchat.pl file in XChat client (Window --> Plugins and Scripts --> Add)
+
+---
 
 Usage:
-
 In the messeges tab, write /ya and whatever.. for example:
 
 /ya alsalam 3lykom
 
 <ME>  السلام عليكم
 
+---
 
-BTW, this created as testing and just for fun, so don't expect it works as you expect (between its slow!) 
+Warning:
+This created as testing and just for fun, so don't expect it works as you expect (between its slow!) 
